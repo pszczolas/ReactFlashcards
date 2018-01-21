@@ -1,0 +1,21 @@
+[{
+		"obverse": "Hi",
+		"reverse": "Czeœæ"
+	},
+	{
+		"obverse": "Cat",
+		"reverse": "Kot"
+	},
+	{
+		"obverse": "Dog",
+		"reverse": "Pies"
+	},
+	{
+		"obverse": "Orange",
+		"reverse": "Pomarañcza"
+	},
+	{
+		"obverse": "Water",
+		"reverse": "Woda"
+	}
+]
